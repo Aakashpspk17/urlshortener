@@ -10,7 +10,12 @@ A landing page with an integration to shrtcode API and get it looking as close t
 
 React.js
 
-### HOW TO RUN THE PROJECT
+### HOW TO RUN THE PROJECT:
+
+clone the repository from git bash using the git clone command.
+npm install.
+npm start.
+
 
 
 
